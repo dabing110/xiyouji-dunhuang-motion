@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 渲染与配音产物（不入库，本地自行渲染）
+*.mp4
+*.wav
+*.ass
+*.png
+*.jpg
+成片/
+成片_有声/
+_渲染分段/
+_配音_*/
+_审片/
+_样张/
+_qa_*/
+_视频号待发箱/
+_归档_*/
+
+# 日志与临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
